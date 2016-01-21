@@ -1,0 +1,43 @@
+// Ejercicio 0:
+//
+// - Comprender como funcionan el metodo "map" 
+//  Map: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+// Ejercicio 1.a:
+// Hacer una funcion que SUME dos numeros, de forma "normal"
+// Hacer una funcion que SUME dos numeros, de forma "currificada"
+// Abajo, hacer las siguientes sumas, utilizando la funcion "normal" y la funcion "currificada":
+// 10 + 1
+// 10 + 5
+// 10 + 30
+// 10 + 53
+// 10 + 8
+// Ejercicio 1.b
+// 
+// Utilizando las funciones del ejercicio 1, sumar 10 a los elementos del siguiente array:
+//
+// [1,5,30,53,8]
+// 
+// Nota: Se puede utilizar el metodo "map" (ejemplo: [1,5,30,53,8].map(...) )
+// Ejercicio 2.a
+//
+// Hacer una funcion que reciba:
+// - Un string
+// - Un objeto
+//
+// - Y que retorne el valor que tiene dicho objeto en el string que se recibio.
+//
+//
+// Ejemplo: 
+//   Si el string es "nombre", 
+//   y el objeto es: {
+//      nombre: "juan",
+//      apellido: "palote"
+//   }
+//
+//   la funcion deberia de retornar "pablo".
+//  Hacer la funcion de forma normal, y de forma currificada.
+//
+// Ejercicio 2.b:
+//
+// Dado un array de objetos nombre-apellido como el del punto anterior, retornar un array con todos los nombres.
+//
